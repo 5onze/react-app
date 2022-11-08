@@ -1,0 +1,13 @@
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.loader {
+  font-weight: 300;
+}
+.movies {
+  display: grid;
+  grid-template-columns: 500px 100px;
+  padding: 50px;
+}
